@@ -1,5 +1,4 @@
-// Name: Roxie Reginold       Student Number: 501087897
-/*
+// Name: Roxie Reginold       
     A Shoe is a Product with size and colour options
  */
 public class Shoes extends Product{ // create a shoe class that is a sub class of Product
