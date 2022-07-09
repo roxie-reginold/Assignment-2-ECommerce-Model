@@ -1,5 +1,4 @@
 Name: Roxie Reginold              
-Student Number: 501087897
 Does the program/files compile: Yes
 
 ~How the Shoe class is implemented~
