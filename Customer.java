@@ -1,4 +1,4 @@
-// Name: Roxie Reginold       Student Number: 501087897
+// Name: Roxie Reginold       
 /*
  *  class Customer defines a registered customer. It keeps track of the customer's name and address. 
  *  A unique id is generated when when a new customer is created. 
