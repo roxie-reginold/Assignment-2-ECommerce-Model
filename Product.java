@@ -1,4 +1,4 @@
-// Name: Roxie Reginold       Student Number: 501087897
+// Name: Roxie Reginold      
 /*
  * class Product defines a product for sale by the system. 
  * 
