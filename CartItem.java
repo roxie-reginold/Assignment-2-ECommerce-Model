@@ -1,4 +1,4 @@
-// Name: Roxie Reginold       Student Number: 501087897
+// Name: Roxie Reginold      
 /*
  * class CartItem defines an item in a cart list of a specific customer
  * Also stores product option for the cart item chosen by the customer (e.g. paperback book, certain size of a product etc)
