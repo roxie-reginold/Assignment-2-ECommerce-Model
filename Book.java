@@ -1,4 +1,4 @@
-// Name: Roxie Reginold       Student Number: 501087897
+// Name: Roxie Reginold      
 /* A book IS A product that has additional information - e.g. title, author
 
  	 A book also comes in different formats ("Paperback", "Hardcover", "EBook")
