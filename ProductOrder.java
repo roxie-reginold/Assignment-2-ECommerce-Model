@@ -1,4 +1,4 @@
-// Name: Roxie Reginold       Student Number: 501087897
+// Name: Roxie Reginold       
 /*
  * class ProductOrder defines an order of a specific product by a customer
  * 
