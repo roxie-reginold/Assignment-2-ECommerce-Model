@@ -1,1 +1,2 @@
-# Assignment 2-ECommerce-Model
+# ECommerce-Model
+Modelling an E-Commerece System using Java.
