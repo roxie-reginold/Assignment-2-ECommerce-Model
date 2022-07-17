@@ -1,2 +1,4 @@
 # ECommerce-Model
-Modelling an E-Commerece System using Java.
+Run the following commands in the terminal:
+javac ECommerceUserInterface.java 
+java ECommerceUserInterface.java 
